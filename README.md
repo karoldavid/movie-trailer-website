@@ -16,15 +16,14 @@ A Movie Poster Website made with Python
 * wget https://github.com/karoldavid/movie-trailer-website/archive/master.zip
 * Open a command line interface, navigate to the movie-trailer-website directory and execute:
 
-    python entertainment_center.py
-
+```python entertainment_center.py```
 
 ## Purpose
 
 Write server-side code to store a list of favorite movies, including box art imagery and a movie trailer URL.
 Serve this data as a web page allowing visitors to review their movies and watch the trailers.
 
-## FEND Nanodegree
+## Full Stack Web Developer Nanodegree
 
 The Movie Trailer Website is part of the Udacity Full Stack Web Developer Nanodegree:
 
